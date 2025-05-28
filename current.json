@@ -1,0 +1,11 @@
+{
+    "version": "v0.8.8",
+    "notes": "See website for full changelog",
+    "pub_date": "2025-05-14T00:16:57+00:00",
+    "platforms": {
+      "windows-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWlFaME9mSW9pQUZDYWs1SlhsbkZrS2x1WWdER0hzbTdoVEhDN3Z0Nkp2bEFNMDYycFFpNEU0TzloV2kxRnc5T3MzNDBlbGUzYWlKMXN6bDVmQ2JlNUtkVnlYSXF1WndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3Mjc4MDU1CWZpbGU6c3VwZXItbW91c2UtYWlfMC44LjhfeDY0LXNldHVwLmV4ZQppUjN2bEx1V28vZWZsOE9tdFp1dUQrMWx4bUZyR05rTkFGS1V4Tmc0V1VJT2RlZ29OalhVZ3k3L0dTUjcra2Q3M1g2blFLcm83dTRselU4VG9DdDBBUT09Cg==",
+        "url": "https://github.com/SurajSSingh/SuperMouseAI/releases/download/v0.8.8/super-mouse-ai_0.8.8_x64-setup.exe"
+      }
+    }
+  }
