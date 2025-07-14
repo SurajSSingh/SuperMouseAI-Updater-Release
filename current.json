@@ -1,19 +1,11 @@
 {
-    "version": "v0.9.3",
+    "version": "v0.9.4",
     "notes": "See website for full changelog",
     "pub_date": "2025-06-12T00:10:58+00:00",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWlFaME9mSW9pQUhCZ2lGUFBmRlc5OWVZTVBmWkJFOXVWd3EyY0F4MFhRVGVyN3NEdnVIREdobXpxdTZkeTVIRXNUQW5vRjJxVVY0Nkg3L2JDbkQ2S052WXpaWnUyOEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5Njg1MjQ4CWZpbGU6c3VwZXItbW91c2UtYWlfMC45LjNfeDY0LXNldHVwLmV4ZQpQMkVQMHhrcGF6YTdxa3VlZ28wTHl0UmluNFp4djNoQ1ZRUlpMcVk2RnVSSjBKSVRkazQ5T1h1U1o5MEhtUFpFSlBUZTlTaUJxQkQ5ZGZHbENDS0lCQT09Cg==",
-        "url": "https://github.com/SurajSSingh/SuperMouseAI-Updater-Release/releases/download/v0.9.3/super-mouse-ai_0.9.3_windows_x64-setup.exe"
-      },
-      "darwin-aarch64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWlFaME9mSW9pQU5UcEwyNTdZQnlYU2VpaXZOeFdvdVJpQ0tSRUg3SXo1VnV6VUVzbE0zT0lhNE1MWHUySUY4YWY0YjB2TXpqY2lxbmIybW5rcUduTEdRc2VzbUNmbmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5Njg1NjYyCWZpbGU6c3VwZXItbW91c2UtYWkuYXBwLnRhci5negoyMEdvdGxHWkVXWjRQNHp1cE1NZkVac3NQWTMvZlRnYTF2K0g0cnNKTHpFWlh2RkgvSmsrcXU0L2w4UkZXTjRaZGRiQ3lWZWZQaFdGS2RGSnNCekZDQT09Cg==",
-        "url": "https://github.com/SurajSSingh/SuperMouseAI-Updater-Release/releases/download/v0.9.3/super-mouse-ai_0.9.3_mac_aarch64.dmg"
-      },
-      "darwin-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWlFaME9mSW9pQUZNUmFpWjMxT3RZTnc1RW1sNWxpck13MnI2cERsS3hGYmlUdVRCNVY5c1Z0K2h3Z2xRSDFYdnptOHZnWDNoOVdFQUpXWWU2T2FidXVBL2xBTHUwdUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5Njg2MDUyCWZpbGU6c3VwZXItbW91c2UtYWkuYXBwLnRhci5negp1MkN3SmI0em5LdmZXRW41OWlzNzdiaUswRlpMM1ZYZ0lEa09ZalhBUzExTjNLdVhxT3I0OEFzVTYxQ2l5eVNJRjFXeXM0RmNBQ09aMkZ5RHpuZkNBUT09Cg==",
-        "url": "https://github.com/SurajSSingh/SuperMouseAI-Updater-Release/releases/download/v0.9.3/super-mouse-ai_0.9.3_mac_x64.dmg"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWlFaME9mSW9pQVBYa1grUGZ1dHA2UURnYkV2dmpXTUlzNjMvY2NLN0J0RlRPVU5tT2VXTEowVFI2cEdxTUtTMjBVNXFRQW82eWVhbElRU1VGbHBPenpHdUh3RXZ5K1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyNTMwMjUxCWZpbGU6c3VwZXItbW91c2UtYWlfMC45LjRfeDY0LXNldHVwLmV4ZQpmTG1MVUtpSmU0ZHRjMFovOFZacVB0UGpkaVJia2hkenorbnpqcFNaN1UrV1ptVnNkOVJ1OS9oZ0Q0ZzFEd3FIRzRvbEJwcW1sVFpoaWZsaUJxYTdCdz09Cg==",
+        "url": "https://github.com/SurajSSingh/SuperMouseAI-Updater-Release/releases/download/v0.9.4/super-mouse-ai_0.9.4_x64-setup.exe"
       }
     }
   }
